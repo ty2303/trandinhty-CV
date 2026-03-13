@@ -1,9 +1,3 @@
----
-noteId: "389b6b501ef011f19bc8b323cbd55174"
-tags: []
-
----
-
 # Trần Đình Ty — Resume
 
 ## Preview

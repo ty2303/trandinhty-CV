@@ -14,7 +14,7 @@ tags: []
 
 ## Download
 
-📄 [**Tải CV (PDF)**](resume.pdf)
+📄 [**Tải CV (PDF)**](https://raw.githubusercontent.com/ty2303/trandinhty-CV/main/resume.pdf)
 
 ## Contact
 

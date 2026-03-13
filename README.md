@@ -12,6 +12,10 @@ tags: []
   <img src="resume-preview.png" alt="Tran Dinh Ty - Resume" width="700"/>
 </p>
 
+## Download
+
+📄 [**Tải CV (PDF)**](resume.pdf)
+
 ## Contact
 
 - **Email:** trandinhty23@gmail.com
